@@ -1,0 +1,30 @@
+text,label
+nama kamu siapa?,ask_name
+siapa nama kamu?,ask_name
+kamu punya nama ga sih?,ask_name
+aku panggil kamu apa?,ask_name
+kamu biasanya dipanggil apa?,ask_name
+kamu siapa?,ask_name
+siapa namamu?,ask_name
+nama kamu?,ask_name
+cuaca,weather
+cuaca hari ini,weather
+cuacanya bagaimana?,weather
+suhu berapa hari ini?,weather
+perkiraan cuaca,weather
+kuliah dimana?,campus
+kamu kuliah ga?,campus
+apakah kamu kuliah?,campus
+kamu kuliah dimana?,campus
+kamu belajar dimana?,campus
+kamu cari ilmu dimana?,campus
+kamu belajar?,campus
+rumahmu dimana?,home
+kamu punya rumah?,home
+boleh tau rumah kamu ga?,home
+rumahmu boleh tau dimana?,home
+aku mau ke rumahmu,home
+kamu bisa apa aja?,what_can_do
+kamu bisa ngapain aja?,what_can_do
+kamu bisa apa?,what_can_do
+bisa apa aja?,what_can_do
